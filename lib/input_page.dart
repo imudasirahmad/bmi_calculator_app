@@ -95,8 +95,8 @@ class _InputScreenState extends State<InputScreen> {
                       data: SliderTheme.of(context).copyWith(
                         activeTrackColor:activeTrackColor,
                         inactiveTrackColor: Colors.grey,
-                        thumbColor: thumbcolor,
-                        overlayColor: overlaycolor,
+                        thumbColor: thumbColor,
+                        overlayColor: overlayColor,
                       ),
                       child: Slider(
                         value: height.toDouble(),

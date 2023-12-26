@@ -11,8 +11,8 @@ const buttonNameStyle = TextStyle(fontSize: 30, fontWeight: FontWeight.bold ,col
 const headingStyle = TextStyle(color: Colors.white, fontWeight: FontWeight.bold , fontSize: 35);
 const activeTrackColor = Color(0xFFEB1555);
 const inactiveTrackColor = Color(0xFF808080);
-const thumbcolor = Color(0xFFEB1555);
-const overlaycolor = Color(0x1FEB1555);
+const thumbColor = Color(0xFFEB1555);
+const overlayColor = Color(0x1FEB1555);
 
 
 const resultTextStyle = TextStyle(fontSize: 28, color: Colors.green,fontWeight: FontWeight.normal,);
